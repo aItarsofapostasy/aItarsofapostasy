@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**aItarsofapostasy/aItarsofapostasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <code style="color : #90ACBA">♱　　Be not afraid, sinner. Your devotion to God shows goodness in you. 　</code>
 
-Here are some ideas to get you started:
+<font color="green"> Some green text </font>
+　  
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![made by me!](https://files.catbox.moe/97x0d2.webp)
+
+<p align="center">
+    <code style="color : #5B738D">Plentiful indeed. The heart is willing, but the body must rest.</code>
+</p> 
+
+<p align="center">
+  <code style="color : #303F52">Lest you squander one of the Lord's creations. 　໒　　</code>
+</p> 
+
