@@ -1,9 +1,6 @@
 
 <p align="center">
-  <code style="color : #90ACBA">♱　　Be not afraid, sinner. Your devotion to God shows goodness in you. 　</code>
-
-<font color="green"> Some green text </font>
-　  
+  <code style="color : #90ACBA">♱　　Be not afraid, sinner. Your devotion to God shows goodness in you. 　</code>　  
 </p> 
 
 ![made by me!](https://files.catbox.moe/97x0d2.webp)
